@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mounaimMoussaoui
-- 👀 I’m interested in Front End Devellopement
+- 👀 I’m interested by FrontEnd Development web
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
