@@ -1,15 +1,7 @@
-🙋‍♂️ About Me
-Hi! I'm Mounaim Moussaoui, a passionate front-end developer focused on building clean and user-friendly web interfaces.
-You can find more of my work on:
+<h1 align="center">Hi 🙋‍♂️,  About Me</h1>
+<h3 align="center">Hi! I'm Mounaim Moussaoui, a passionate front-end developer focused on building clean and user-friendly web interfaces.</h3>
 
-🌐 GitHub
 
-🎯 Frontend Mentor
-
-🎨 CSSBattle
-
-🔗 Live Demo
-👉 Click here to view the live site
 <img align="right" alt="coding" width="300" height="200" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mounaimmoussaoui&label=Profile%20views&color=0e75b6&style=flat" alt="mounaimmoussaoui" /> </p>
 
