@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🙋‍♂️,  About Me</h1>
-<h3 align="center">Hi! I'm Mounaim Moussaoui, a passionate front-end developer focused on building clean and user-friendly web interfaces.</h3>
+<h3 align="center">Hi! I'm Mounaim Moussaoui, a passionate by programming</h3>
 
 
 <img align="right" alt="coding" width="300" height="200" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" />
